@@ -1,6 +1,6 @@
 # redes-sociales-v2
 Para personalizar los enlaces:
-<br>
+<br><br>
 Reemplazar "https://www.youtube.com" por el link de vuestro canal.
 <br>
 Reemplazar "https://www.facebook.com" por el link de vuestro perfil o página.
