@@ -1,0 +1,35 @@
+.fuente{
+    color:rgb(153, 47, 47);
+    font-size: em;
+}
+.button1{
+    width: 6%;
+    height: 5%;
+}
+.button2{
+    width: 6%;
+    height: 5%;
+}
+.button3{
+    width: 6%;
+    height: 5%;
+}
+.button4{
+    width: 6%;
+    height: 5%;
+}
+.button5{
+    width: 6%;
+    height: 5%;
+}
+.button6{
+    width: 6%;
+    height: 5%;
+}
+#banner{
+    width: 100%;
+    height: 20px;
+}
+#tamaño{
+    font-size: 1ch;
+}
